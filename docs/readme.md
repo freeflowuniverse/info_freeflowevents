@@ -1,6 +1,6 @@
 # FreeFlow Events
 
-![](images/ibiza.png)
+![](images/child.png)
 
 Is Liberalism dead? Is there an alternative? The world has never been more global and prosperous, but so many people are unhappy. Our too capitalistic (rational mind driven) system is destroying our planet's resources and most people ignore this sad reality and go on with their lives like everything will stay the same as has been for the last 60 years. 
 
@@ -14,10 +14,12 @@ We need a radical new approach, an approach which starts with ourselves and we n
 2. We need a new kind of money, money is a taboo, we almost don’t know anything about it, yet it controls so much in our lives. We need new types of money which are more stable and more efficient and fair.
 3. Change needs to start with ourselves. Our universe is a wonderful place, we know so little about it. Learning about our own capabilities and learning to use “love” over “fear” makes the world a better place. We need to learn how to say no to certain behaviors in the world and choose differently. 
 
-- [3 pager intro about Threefold](http://intro.threefold.me)
-- Why ThreeFold				whitepaper
+## some more information
+
+- [3 pager intro about Threefold and mission](http://intro.threefold.me)
 - [To better understand our mission](http://freeflowmanifesto.threefold.me)
 -  [To learn more about our Ecosystem](http://ecosystem.threefold.me)
+-  [Why ThreeFold				whitepaper](http://whitepaper.threefold.me)
 
 ## Invitation to our Ibiza Event
 
