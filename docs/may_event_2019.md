@@ -16,7 +16,15 @@ Do you know someone who would be a great speaker…
 
 **If you want to join please register in**
 
-- **IMPORTANT** [http://event_poll.threefold.me](http://event_poll.threefold.me)
+
+The event starts the 22nd of May in the evening with a drink, but the first session is on the 23th in the morning.The weekdays are mainly sessions about Freeflow and the ThreeFold ecosystem. The weekend is for people who want to stay longer and enjoy Ibiza together with friends.
+
+Please register your interest on our freeflow pages (alternative to facebook):
+https://freeflowpages.com/s/freeflow-events/ 
+
+If you have any issues please contact us in https://t.me/freeflow_support (a public chat support forum)
+or send email to  info@freeflowevent.com
+
 
 We hope to see you all in Ibiza on one or both of the events.
 Lots to “talk” oeps “act” upon
